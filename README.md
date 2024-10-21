@@ -1,3 +1,5 @@
+# There are some small errors in this application.
+
 ![01](https://github.com/user-attachments/assets/5d86dbec-5d6c-48eb-a4bb-3f41b34c9002)
 
 Certainly! Let's break down each **functional requirement** for the **voice recognizer software** into more detailed sub-requirements.
